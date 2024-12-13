@@ -1,0 +1,11 @@
+C:\Users\Emir\source\repos\AkaryakitOtomasyon\AkaryakitOtomasyon\bin\Debug\AkaryakitOtomasyon.exe.config
+C:\Users\Emir\source\repos\AkaryakitOtomasyon\AkaryakitOtomasyon\bin\Debug\AkaryakitOtomasyon.exe
+C:\Users\Emir\source\repos\AkaryakitOtomasyon\AkaryakitOtomasyon\bin\Debug\AkaryakitOtomasyon.pdb
+C:\Users\Emir\source\repos\AkaryakitOtomasyon\AkaryakitOtomasyon\obj\Debug\AkaryakitOtomasyon.csproj.AssemblyReference.cache
+C:\Users\Emir\source\repos\AkaryakitOtomasyon\AkaryakitOtomasyon\obj\Debug\AkaryakitOtomasyon.Form1.resources
+C:\Users\Emir\source\repos\AkaryakitOtomasyon\AkaryakitOtomasyon\obj\Debug\AkaryakitOtomasyon.Properties.Resources.resources
+C:\Users\Emir\source\repos\AkaryakitOtomasyon\AkaryakitOtomasyon\obj\Debug\AkaryakitOtomasyon.csproj.GenerateResource.cache
+C:\Users\Emir\source\repos\AkaryakitOtomasyon\AkaryakitOtomasyon\obj\Debug\AkaryakitOtomasyon.csproj.CoreCompileInputs.cache
+C:\Users\Emir\source\repos\AkaryakitOtomasyon\AkaryakitOtomasyon\obj\Debug\AkaryakitOtomasyon.exe
+C:\Users\Emir\source\repos\AkaryakitOtomasyon\AkaryakitOtomasyon\obj\Debug\AkaryakitOtomasyon.pdb
+C:\Users\Emir\source\repos\AkaryakitOtomasyon\AkaryakitOtomasyon\obj\Debug\AkaryakitOtomasyon.BenzinYukle.resources
